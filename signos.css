@@ -1,0 +1,38 @@
+body {
+    background: #A52931;
+    font: normal, 15pt, Arial;
+}
+
+header {
+    color: #ffffff;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 25px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.411);
+    font-style: oblique;
+    color: #A52931;
+}
+
+div {
+    text-align: justify;
+    text-align-last: center;
+    margin-top: 15pt;
+    margin-bottom: 10pt;
+}
+
+#animal {
+    margin-top: 15pt;
+    margin-bottom: 10pt;
+    font-size: 25pt;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}

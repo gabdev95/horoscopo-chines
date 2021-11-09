@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horóscopo Chinês</title>
+    <link rel="stylesheet" href="signos.css">
+
+</head>
+<body>
+    <header>
+        <h1>Horóscopo Chinês</h1>
+    </header>
+    <section>
+        <div id="msg">
+            <h3>O Horóscopo Chinês é baseado na astrologia da China e é dividido em 12 signos representados por animais. Seu diferencial é que, ao contrário do Horóscopo Ocidental ao qual estamos habituados, os signos não se dividem pelos meses ao longo do ano, mas sim cada ano inteiro é regido por um animal, seguindo o calendário chinês que também é diferente do ocidental.</h3>
+            <p>Basta colocar seu ano de nascimento e descobrir o seu signo de acordo com o horóscopo chinês.</p>
+                <p> Digite aqui: 
+                    <input type="number" name="txtano" id="txtano"> 
+                    <input type="button" value="Consultar" onclick="carregar()">
+                </p>
+        </div>
+        <div id="animal">
+            
+        </div>
+        <div id="foto">
+            <img id="imagem" src="/img/inicio.jpeg" alt="Foto de início." width="50%">
+        </div>
+        <div id="txtsigno">
+            
+        </div>
+        <div><input type="button" value="Página Inicial" onClick="location.href=location.href"></div>
+    </section>
+    <footer>
+        <p ><a href="https://www.linkedin.com/in/dev-gabriele-de-medeiros/" style="text-decoration: none; color: white;" ><img src="/img/linkedin.png" alt="Ícone do LinkedIn" width="2%"></a>
+        <a href="https://github.com/gabdev95" style="text-decoration: none; color: white;"><img src="/img/github.png" alt="Ícone do GitHub" width="2%"></a></p>
+    </footer>
+    <script src="signos.js"></script>
+</body>
+</html>
