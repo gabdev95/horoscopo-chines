@@ -1,3 +1,12 @@
 # Horóscopo Chinês 🐲
 
-Estudo de JavaScript com elaboração de site de horóscopo chinês.
+Elaboração de site de horóscopo chinês para estudo.
+
+#### 📌 Estudo de:
+- HTML
+- CSS
+- JavaScript
+
+#### 📌 Visualização do projeto:
+
+<img src="img/horoscopo.gif">
