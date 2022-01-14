@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
 body {
     background: #A52931;
-    font: normal, 15pt, Arial;
+    font:  15pt;
 }
 
 header {
@@ -15,7 +21,8 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.411);
-    font-style: oblique;
+    /*font-style: oblique;*/
+    font-weight: bold;
     color: #A52931;
 }
 
