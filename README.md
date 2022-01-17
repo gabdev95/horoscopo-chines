@@ -4,8 +4,8 @@ Elaboração de site de horóscopo chinês para estudo.
 
 #### 📌 Estudo de:
 - JavaScript
-- Promises
-- Async/Await
+- CSS
+- HTML
 
 #### 📌 Visualização do projeto:
 
